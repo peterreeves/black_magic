@@ -1,0 +1,9 @@
+[package]
+name = "black_magic"
+version = "0.1.0"
+authors = ["peterreeves <peter.x.reeves@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "*"
+home = "*"
